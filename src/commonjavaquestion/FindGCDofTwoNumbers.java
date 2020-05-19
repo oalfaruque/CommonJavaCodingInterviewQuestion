@@ -1,5 +1,5 @@
 package commonjavaquestion;
-//Write a Java program to find GCD (Greatest Common Denominator) of two numbers
+//Write a Java program to find GCD (Greatest Common Denominator) of two numbers using recursion
 import java.util.Scanner;
 
 public class FindGCDofTwoNumbers {
