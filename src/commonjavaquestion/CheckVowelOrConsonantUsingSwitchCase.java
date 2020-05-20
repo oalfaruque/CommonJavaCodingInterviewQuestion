@@ -16,6 +16,6 @@ public class CheckVowelOrConsonantUsingSwitchCase {
     }
 
     public static void main(String[] args) {
-        checkingVowelOrConsonant('E');
+        checkingVowelOrConsonant('e');
     }
 }
