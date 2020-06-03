@@ -24,7 +24,7 @@ public class RoundANumberToNDecimalPlaces {
             bigDecimal = bigDecimal.setScale(i,RoundingMode.HALF_UP);
         }return bigDecimal.doubleValue();
     }
-    //To prove the difference between two method, have a closer look at the result please
+    //To prove the difference between two methods, have a closer look at the result please
     public static void roundingDecimalNumberToNDecimal(){
         BigDecimal bd = new BigDecimal("1363.2749");
         bd = bd.setScale(2, RoundingMode.HALF_UP);
